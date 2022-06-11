@@ -1,4 +1,4 @@
-# WheaterApp
+# WeatherApp
 This is an app to get the weather of cities
 
 ## App images:
